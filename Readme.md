@@ -1,0 +1,45 @@
+# Hi, I'm Kalash 👋
+
+🎯 **Data Analyst → DevOps Engineer (In Transition)**
+
+---
+
+## 🧠 About Me
+- 📊 1.5 years experience as Data Analyst
+- 🔧 Currently learning DevOps from scratch hands-on
+- ☁️ Practicing on live AWS EC2 instance
+- 📍 Based in Pune, India
+- 💡 Goal: Land a DevOps/Cloud Engineer role by August 2026
+
+---
+
+## 🛠️ Currently Learning
+
+| Tool | Status |
+|------|--------|
+| Linux | 🔄 In Progress |
+| Shell Scripting | 🔄 In Progress |
+| Git & GitHub | ✅ Started |
+| Docker | ⏳ Up Next |
+| AWS | ⏳ Coming Soon |
+| Kubernetes | ⏳ Coming Soon |
+| Terraform | ⏳ Coming Soon |
+
+---
+
+## 📁 Projects
+> Currently building my first projects.
+> Will be updated as I complete each tool.
+
+---
+
+## 📊 My Background
+- Worked as Data Analyst for 1.5 years
+- Hands on with Python, SQL, data pipelines
+- Now applying that analytical thinking to DevOps
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/kalash-borkar-34658024b
+- Email: kalashborkar1515@gmail.com

@@ -17,14 +17,16 @@
 
 | Tool | Status |
 |------|--------|
-| Linux | 🔄 In Progress |
-| Shell Scripting | 🔄 In Progress |
-| Git & GitHub | ✅ Started |
+| Linux | ✅ Done |
+| Shell Scripting | ✅ Done |
+| Git & GitHub | 🔄 Started |
 | Docker | ⏳ Up Next |
-| AWS | ⏳ Coming Soon |
+| ArgoCD | ⏳ Coming Soon |
 | Kubernetes | ⏳ Coming Soon |
+| AWS | ⏳ Coming Soon |
 | Terraform | ⏳ Coming Soon |
-
+| Ansible | ⏳ Coming Soon |
+| Promethus/Grafana | ⏳ Coming Soon |
 ---
 
 ## 📁 Projects

@@ -20,6 +20,7 @@
 | Linux | ✅ Done |
 | Shell Scripting | ✅ Done |
 | Git & GitHub | 🔄 Started |
+| Networking  | 🔄 Started |
 | Docker | ⏳ Up Next |
 | ArgoCD | ⏳ Coming Soon |
 | Kubernetes | ⏳ Coming Soon |

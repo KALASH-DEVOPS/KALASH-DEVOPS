@@ -19,13 +19,13 @@
 |------|--------|
 | Linux | ✅ Done |
 | Shell Scripting | ✅ Done |
-| Git & GitHub | 🔄 Started |
-| Networking  | 🔄 Started |
-| Docker | ⏳ Up Next |
+| Git & GitHub | ✅ Done |
+| Networking  | ✅ Done |
+| Docker | ✅ Done |
 | ArgoCD | ⏳ Coming Soon |
-| Kubernetes | ⏳ Coming Soon |
-| AWS | ⏳ Coming Soon |
-| Terraform | ⏳ Coming Soon |
+| Kubernetes | ✅ Done |
+| AWS | ✅ Done |
+| Terraform | ✅ Done |
 | Ansible | ⏳ Coming Soon |
 | Promethus/Grafana | ⏳ Coming Soon |
 ---

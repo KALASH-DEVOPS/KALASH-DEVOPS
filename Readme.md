@@ -5,7 +5,7 @@
 ---
 
 ## 🧠 About Me
-- 📊 1.2 years experience as Data Analyst
+- 📊 1.5 years experience as Data Analyst
 - 🔧 Currently learning DevOps from scratch hands-on
 - ☁️ Practicing on live AWS EC2 instance
 - 📍 Based in Pune, India

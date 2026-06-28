@@ -45,4 +45,4 @@
 
 ## 📫 Connect With Me
 - LinkedIn: www.linkedin.com/in/kalash-borkar-34658024b
-- Email: kalashborkar1515@gmail.com
+- Email: kalashborkar26@gmail.com
